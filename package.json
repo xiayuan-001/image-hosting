@@ -1,0 +1,19 @@
+{
+  "name": "xiaoshixy-static",
+  "version": "1.0.0",
+  "description": "[PicX](https://github.com/XPoet/picx) is a simple and powerful image hosting tool. It supports image hosting services via GitHub repository.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiayuan-001/image-hosting.git"
+  },
+  "author": "xiaoshixy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiayuan-001/image-hosting/issues"
+  },
+  "homepage": "https://github.com/xiayuan-001/image-hosting#readme"
+}
